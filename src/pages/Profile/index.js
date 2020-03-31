@@ -30,7 +30,7 @@ export default function Profile() {
 
           <strong>VALOR:</strong>
           <p>R$ 120,00</p>
-          <button type="button">▬</button>
+          <button type="button">x</button>
         </li>
 
         <li>
@@ -42,7 +42,7 @@ export default function Profile() {
 
           <strong>VALOR:</strong>
           <p>R$ 120,00</p>
-          <button type="button">▬</button>
+          <button type="button">x</button>
         </li>
 
         <li>
@@ -54,7 +54,7 @@ export default function Profile() {
 
           <strong>VALOR:</strong>
           <p>R$ 120,00</p>
-          <button type="button">▬</button>
+          <button type="button">x</button>
         </li>
 
         <li>
@@ -66,7 +66,7 @@ export default function Profile() {
 
           <strong>VALOR:</strong>
           <p>R$ 120,00</p>
-          <button type="button">▬</button>
+          <button type="button">x</button>
         </li>
 
         <li>
@@ -78,7 +78,7 @@ export default function Profile() {
 
           <strong>VALOR:</strong>
           <p>R$ 120,00</p>
-          <button type="button">▬</button>
+          <button type="button">x</button>
         </li>
 
       </ul>
